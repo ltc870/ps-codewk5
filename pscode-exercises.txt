@@ -9,7 +9,7 @@ Exercise 2: Check if a Number is Even or Odd - using javascript as the language
 2a. First, make an if statement.
 2b. In the parenthesis include your first number.
 2c. Next, include the modulus operator.
-2d. Next, include your second number.
+2d. Next, include 2 as your second number.
 2e. Next, include the "strict comparison" operator which is "===".
 2f. Next, compare all of that to 0.
 2g. Next, make curly brackets.
@@ -33,3 +33,12 @@ Write pseudo code that will perform the following.
 3b.2 Next, within the loop block create a variable number and set it equal to zero.
 3b.3 Next, take number, set it equal to itself and add the value of array at position i, so that each time the loop runs, number will increase by the number at the position the loop is in.
 3b.4 Once number is totaled, divide that by the length of the array.
+
+3c.1 First, initiate large, small and i as variables.
+3c.2 Set both the large variable and the to the small variable to the first item in the array.
+3c.3 Create a C-style for loop, initialize (i) the loop to 0. Set the condition statement to i is less than the length of the array, and increment by 1.
+3c.4 Create an if statement saying if the element of the array at the specific position is more than the current element, then set that large variable to that element.
+3c.5 Create another if statement saying if the element of the array at the specific position is less than the current element, then set the small variable to that element.
+3c.6 Print out both the small and large variables to see the values.
+
+
