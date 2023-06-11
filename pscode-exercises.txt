@@ -41,4 +41,5 @@ Write pseudo code that will perform the following.
 3c.5 Create another if statement saying if the element of the array at the specific position is less than the current element, then set the small variable to that element.
 3c.6 Print out both the small and large variables to see the values.
 
-
+3d.1 Print the number variable to the console with a message that says "The answer is {number}"
+3d.2 Print a message to the console that says "The smallest number is {small} and the largest number is {large}" 
