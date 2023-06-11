@@ -1,0 +1,15 @@
+Exercise 1: Calculate the Sum of Two Numbers
+1a. First you'll create a variable, then add the "assignment" operator after it.
+1b. Then you'll type an integer.
+1c. Then you'll add the "addition" operator
+1d. Then you'll type another integer 
+
+
+Exercise 2: Check if a Number is Even or Odd - using javascript as the language
+2a. First, make an if statement.
+2b. In the parenthesis include your first number.
+2c. Next, include the modulus operator.
+2d. Next, include your second number.
+2e. Next, include the "strict comparison" operator which is "===".
+2f. Next, compare all of that to 0.
+2g. Next, make curly brackets.
