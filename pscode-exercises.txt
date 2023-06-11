@@ -15,3 +15,21 @@ Exercise 2: Check if a Number is Even or Odd - using javascript as the language
 2g. Next, make curly brackets.
 2h. In the code block, you can console.log and say "even".
 2i. In the next code block, which will be your else block, you can console.log and say "odd"
+
+Exercise 3: 
+Write pseudo code that will perform the following.    
+
+(a) Read in 5 separate numbers.   
+(b) Calculate the average of the five numbers.
+(c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+(d) Write out the results found from steps b and c with a message describing what they are
+
+3a.1 First, you would initialize an empty array.
+3a.2 Next you would create a C-style for loop, with the initializer set to zero, the condition set to i is less than or equal to 5 and then increment by 1.
+3a.3 Within the loop, prompt the user to input a number and store the value into a variable.
+3a.4  Push the variable to position i of the array so that each time the loop runs, the input number will go to that position within the array.
+
+3b.1 First, create a C-style loop, with the initializer set to zero, the condition set to i is less than or equal to the length of the array, and then increment by 1.
+3b.2 Next, within the loop block create a variable number and set it equal to zero.
+3b.3 Next, take number, set it equal to itself and add the value of array at position i, so that each time the loop runs, number will increase by the number at the position the loop is in.
+3b.4 Once number is totaled, divide that by the length of the array.
