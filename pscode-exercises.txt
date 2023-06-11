@@ -29,8 +29,8 @@ Write pseudo code that will perform the following.
 3a.3 Within the loop, prompt the user to input a number and store the value into a variable.
 3a.4  Push the variable to position i of the array so that each time the loop runs, the input number will go to that position within the array.
 
-3b.1 First, create a C-style loop, with the initializer set to zero, the condition set to i is less than or equal to the length of the array, and then increment by 1.
-3b.2 Next, within the loop block create a variable number and set it equal to zero.
+3b.1 First create a variable number and set it equal to zero.
+3b.2 Next create a C-style loop, with the initializer set to zero, the condition set to i is less than or equal to the length of the array, and then increment by 1.
 3b.3 Next, take number, set it equal to itself and add the value of array at position i, so that each time the loop runs, number will increase by the number at the position the loop is in.
 3b.4 Once number is totaled, divide that by the length of the array.
 
