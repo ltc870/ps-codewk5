@@ -13,3 +13,5 @@ Exercise 2: Check if a Number is Even or Odd - using javascript as the language
 2e. Next, include the "strict comparison" operator which is "===".
 2f. Next, compare all of that to 0.
 2g. Next, make curly brackets.
+2h. In the code block, you can console.log and say "even".
+2i. In the next code block, which will be your else block, you can console.log and say "odd"
